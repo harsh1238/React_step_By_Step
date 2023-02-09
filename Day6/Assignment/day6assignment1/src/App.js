@@ -22,25 +22,25 @@ function App() {
   const userData = [
     {
       id: 1,
-      name: "Suresh",
+      name: "Harsh",
     },
     {
       id: 2,
-      name: "Mahesh",
+      name: "Piyush",
     },
   ];
 
   const taskUserData = [
     {
       id: 1,
-      name: "Satish",
-      dob: "01-09-1956",
+      name: "Harsh",
+      dob: "25-09-1007",
       gender: "male",
     },
     {
       id: 2,
-      name: "Raju",
-      dob: "01-09-1956",
+      name: "Piyush",
+      dob: "03-09-1997",
       gender: "male",
     },
   ];
