@@ -55,8 +55,7 @@ function App() {
       <Users name="User" />
       <Stocks name="Stock" />
       <TaskUser name="User Details" />
-      <br />
-      <br />
+     
       <br />
       <StylingComponent />
     </div>
